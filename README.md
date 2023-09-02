@@ -1,5 +1,7 @@
 # crypto_tracking_app
- 
+ <img src="https://github.com/xeron56/crypto_tracking_app/assets/11449967/40899aa7-4d33-45ba-95bf-39c7c5c0d9ab" alt="app" width="380" height="800">
+
+
 # README: Building and Running Flutter Code
 
 This README guide provides instructions on how to set up and build Flutter code for your project. Flutter is a popular open-source framework developed by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.
